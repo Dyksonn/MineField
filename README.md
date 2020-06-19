@@ -21,9 +21,12 @@
 - [IOS](https://apps.apple.com/br/app/expo-client/id982107779)
 - [ANDROID](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en)
 
+Para clonar o projeto precisará do GIT
+- [GIT](https://git-scm.com/)
+
 ```
 # Clonar projeto
-$ git clone bla bla bla
+$ git clone https://github.com/Dyksonn/MineField.git
 
 # Instalar dependencias do projeto
 $ yarn ou npm install
