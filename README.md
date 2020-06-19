@@ -33,7 +33,7 @@ $ expo start
 ```
 
 ## :memo: License
-Esté projeto esta sob a licença do MIT. CONSULTE A LICENÇA [LICENSE](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE) for more information.
+Esté projeto esta sob a licença do MIT. CONSULTE A [LICENÇA](https://github.com/lukemorales/react-native-design-code/blob/master/LICENSE).
 
 <hr />
 
